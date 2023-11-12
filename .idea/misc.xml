@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Book/app/src/main/res/layout/abc.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Book/app/src/main/res/layout/activity_book.xml" value="0.176" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Book/app/src/main/res/layout/activity_list.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Book/app/src/main/res/layout/activity_list_next.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Book/app/src/main/res/layout/activity_main.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Book/app/src/main/res/layout/booklist_item.xml" value="0.176" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Book/app/src/main/res/layout/booklistid_item.xml" value="0.1" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Book/app/src/main/res/layout/fragment_book.xml" value="0.1296875" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Book/app/src/main/res/layout/fragment_bookid.xml" value="0.1296875" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Book/app/src/main/res/layout/fragment_first.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Book/app/src/main/res/layout/list_custdiaolg.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Book/app/src/main/res/layout/list_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Book/app/src/main/res/layout/list_next_item.xml" value="0.1265625" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Book/app/src/main/res/layout/recyclerview_item.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
